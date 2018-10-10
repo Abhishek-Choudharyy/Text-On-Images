@@ -33,7 +33,14 @@ Output : Face Embedding for only solo images
 
 file : image_embedding.py
 
-Using KNN to find similar class for given image
+Using KNN to find similar class for given image according to embeddings (https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+
+## Run Face Recognition on Videos
+file: opencv_video.py
+
+Output : result.mp4
+
+
 
 
 
